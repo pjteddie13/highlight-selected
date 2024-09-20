@@ -17,9 +17,9 @@
     "atom": ">=1.13.0 <2.0.0"
   },
   "dependencies": {
-    "atom-package-deps": "^5.0.0",
-    "debounce": "^1.2.0",
-    "grim": "^2.0.2"
+    "atom-package-deps": "^5.1.0",
+    "debounce": "^1.2.1",
+    "grim": "^2.0.3"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
